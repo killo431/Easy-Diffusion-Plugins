@@ -252,6 +252,78 @@
         "compatIssueIds": []
     },
     {
+        "id": "Magnifier",
+        "icon": "fa-magnifying-glass",
+        "name": "Magnifier",
+        "author": "Avidgamefan",
+        "description": "Adds a magnifying glass to the UI to allow you to examine image details.",
+        "url": "https://raw.githubusercontent.com/AvidGameFan/ed-plugins/master/magnifier.plugin.js",
+        "localInstallOnly": false,
+        "version": "",
+        "minEDVersion": "3.0",
+        "compatIssueIds": []
+    },
+    {
+        "id": "Glitchify",
+        "icon": "fa-tornado",
+        "name": "Glitchify!",
+        "author": "Avidgamefan",
+        "description": "Randomly adds glitch effects to image, just for fun.",
+        "url": "https://raw.githubusercontent.com/AvidGameFan/ed-plugins/master/Glitchify.plugin.js",
+        "localInstallOnly": false,
+        "version": "",
+        "minEDVersion": "3.0",
+        "compatIssueIds": []
+    },
+    {
+        "id": "Ratios",
+        "icon": "fa-border-top-left",
+        "name": "Ratios",
+        "author": "Avidgamefan",
+        "description": "Adds buttons to choose from common aspect ratios.",
+        "url": "https://raw.githubusercontent.com/AvidGameFan/ed-plugins/master/Ratios.plugin.js",
+        "localInstallOnly": false,
+        "version": "",
+        "minEDVersion": "3.0",
+        "compatIssueIds": []
+    },
+    {
+        "id": "Favorites",
+        "icon": "fa-heart",
+        "name": "Favorites",
+        "author": "Avidgamefan",
+        "description": "Tag your favorite images and save a list for later.  Requires separate utility to copy images.",
+        "url": "https://raw.githubusercontent.com/AvidGameFan/ed-plugins/master/Favorites.plugin.js",
+        "localInstallOnly": false,
+        "version": "",
+        "minEDVersion": "3.0",
+        "compatIssueIds": []
+    },
+    {
+        "id": "PromptHistory",
+        "icon": "fa-book-open",
+        "name": "Prompt History",
+        "author": "Avidgamefan",
+        "description": "Saves the most recently used prompts.",
+        "url": "https://raw.githubusercontent.com/AvidGameFan/ed-plugins/master/PromptHistory.plugin.js",
+        "localInstallOnly": false,
+        "version": "",
+        "minEDVersion": "3.0",
+        "compatIssueIds": []
+    },
+    {
+        "id": "NegativeHistory",
+        "icon": "fa-book-atlas",
+        "name": "Negative and Model History",
+        "author": "Avidgamefan",
+        "description": "Restores the negative prompt (and some other settings) when selecting a model.",
+        "url": "https://raw.githubusercontent.com/AvidGameFan/ed-plugins/master/NegativeHistory.plugin.js",
+        "localInstallOnly": false,
+        "version": "",
+        "minEDVersion": "3.0",
+        "compatIssueIds": []
+    },
+    {
         "id": "history",
         "icon": "",
         "name": "History",
